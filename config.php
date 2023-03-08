@@ -1,7 +1,7 @@
 <?php
-define('DB_SERVER', 'fdb26.biz.nf');
-define('DB_USERNAME', '2987060_sample');
-define('DB_PASSWORD', 'jnvkhsiwanandpass321');
+define('DB_SERVER', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
 define('DB_NAME', '2987060_sample');
 
 /* Attempt to connect to MySQL database */
